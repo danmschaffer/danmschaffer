@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=292FF7&amp;height=120&amp;section=header" style="max-width: 100%;">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=31D7F5&size=35&center=true&vCenter=true&width=1000&lines=Welcome+!;My+name+is+Daniel+Schaffer;Currently+doing+Computer+Programming+at+Seneca+College;Toronto%2COntario)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=31D7F5&size=35&center=true&vCenter=true&width=1000&lines=Welcome+!;My+name+is+Daniel+Schaffer;Computer+Programming+at+Seneca+College;Toronto%2COntario)](https://git.io/typing-svg)
 
  
  
