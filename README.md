@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=292FF7&amp;height=120&amp;section=header" style="max-width: 100%;">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=FFFFFF&amp;height=120&amp;section=header" style="max-width: 100%;">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=31D7F5&size=35&center=true&vCenter=true&width=1000&lines=Welcome+!;My+name+is+Daniel+Schaffer;Computer+Programming+at+Seneca+College;Toronto%2COntario)](https://git.io/typing-svg)
 
@@ -9,14 +9,15 @@
  </div>
  
  ### Main skills:
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=C&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)&nbsp;
 
 
 ### Currently studying:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)&nbsp;
+
  
- 
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=292FF7&amp;height=120&amp;section=header" style="max-width: 100%;">
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=FFFFFF&amp;height=120&amp;section=header" style="max-width: 100%;">
